@@ -1,3 +1,5 @@
 *.class
 bin/
 *.log
+/flight_cost_minimization/nbproject/private/
+/flight_cost_minimization/build/
